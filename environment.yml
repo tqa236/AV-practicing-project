@@ -1,0 +1,26 @@
+name: base
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - autopep8
+  - catboost
+  - category_encoders
+  - conda-build
+  - jupyter_contrib_nbextensions
+  - hdbscan
+  - lightgbm
+  - pip
+  - plotly
+  - pyodbc
+  - qgrid
+  - umap-learn
+  - xgboost
+  - scikit-learn=0.21*
+  - pip:
+    # - pandas-profiling=2.0.0
+    - nteract-scrapbook
+    - papermill
+    - pylint
+    - scikit-optimize
+prefix: /opt/conda
