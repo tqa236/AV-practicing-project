@@ -10,6 +10,7 @@ dependencies:
   - jupyter_contrib_nbextensions
   - hdbscan
   - lightgbm
+  - numpy=1.16*
   - pip
   - plotly
   - pyodbc

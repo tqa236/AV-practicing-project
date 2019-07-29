@@ -35,7 +35,7 @@ RUN python3 -m pip install -U skorch
 RUN python3 -m pip install pandas-profiling
 
 # Test Python library installation
-COPY ./src/docker_test.py docker_test.py
+COPY ./docker_test.py docker_test.py
 RUN python3 docker_test.py
 
 USER $NB_UID
