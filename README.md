@@ -4,7 +4,7 @@ Machine Learning practicing project on Analytics Vidhya
 
 |                                              Competition                                              | Local Score |  Score | Rank |
 | :---------------------------------------------------------------------------------------------------: | :---------: | :----: | ---- |
-| [Loan Prediction](https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/) |   > 0.7438  | 0.7639 | 4208 |
+| [Loan Prediction](https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/) |   > 0.7438  | 0.7847 | 1266 |
 
 # Build Docker image
 
