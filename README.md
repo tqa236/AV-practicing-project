@@ -1,6 +1,4 @@
-# Machine Learning practicing project on Analytics Vidhya
-
-Machine Learning practicing project on Analytics Vidhya
+# Machine Learning practicing projects on Analytics Vidhya
 
 |                                              Competition                                              | Local Score |  Score | Rank |
 | :---------------------------------------------------------------------------------------------------: | :---------: | :----: | ---- |
