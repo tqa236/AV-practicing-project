@@ -27,9 +27,18 @@ RUN conda env update -f environment.yml && \
     fix-permissions $CONDA_DIR && \
     fix-permissions /home/$NB_USER
 
-USER $NB_UID
+# Install Tensorflow, uses cuda 9.2
+RUN conda install --quiet --yes \
+    'tensorflow-gpu=1.12*' \
+    'keras=2.2*' && \
+    conda clean -tipsy && \
+    fix-permissions $CONDA_DIR && \
+    fix-permissions /home/$NB_USER
 
-RUN python3 -m pip install -U skorch
+# Install Pytorch, uses cuda 9.0, or 10.0
+RUN conda install pytorch torchvision cudatoolkit=9.0 -c pytorch
+
+USER $NB_UID
 
 # Install pandas-profiling>=2.0.0
 RUN python3 -m pip install pandas-profiling

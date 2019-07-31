@@ -108,3 +108,5 @@ venv.bak/
 **/catboost_info/*
 
 *.tmp
+**/model/
+*.tag*
