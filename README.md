@@ -1,5 +1,7 @@
 # Machine Learning practicing projects on Analytics Vidhya
 
+## Result
+
 |                                                       Competition                                                       |  Problem Type  |  Data Type  | Local Score | Score  | Rank |
 | :---------------------------------------------------------------------------------------------------------------------: | :------------: | :---------: | ----------- | ------ | ---- |
 |          [Loan Prediction](https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/)          | Classification |   Tabular   | > 0.7438    | 0.7847 | 1266 |
@@ -12,13 +14,15 @@
 |      [Identify the Apparels](https://datahack.analyticsvidhya.com/contest/practice-problem-identify-the-apparels/)      | Classification |    Images   | 0.9006      | 0.8978 | 148  |
 |        [Identify the Digits](https://datahack.analyticsvidhya.com/contest/practice-problem-identify-the-digits/)        | Classification |    Images   | 0.9814      | 0.9848 | 132  |
 
-Each competition code is self-contained and will run independently.
-
-# Data
+## Data
 
 The data is not saved on this repository, please download them from the competition page.
 
-# Build Docker image
+## Code
+
+Each competition code is self-contained and will run independently.
+
+## Build Docker image
 
 ```bash
 sudo docker build --tag train .
