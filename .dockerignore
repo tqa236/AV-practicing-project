@@ -1,0 +1,6 @@
+*/data/*
+**/catboost_info/*
+
+*.tmp
+**/model/
+*.tag*
