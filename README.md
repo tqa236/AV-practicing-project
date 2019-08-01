@@ -4,11 +4,11 @@
 | :---------------------------------------------------------------------------------------------------------------------: | :------------: | :---------: | ----------- | ------ | ---- |
 |          [Loan Prediction](https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/)          | Classification |   Tabular   | > 0.7438    | 0.7847 | 1266 |
 |           [Big Mart Sales](https://datahack.analyticsvidhya.com/contest/practice-problem-big-mart-sales-iii/)           |   Regression   |   Tabular   | 0.599       | 1153   | 731  |
-|           [Time Series Analysis](https://datahack.analyticsvidhya.com/contest/practice-problem-time-series-2/)          |   Forecasting  | Time Series | NA          |        |      |
-|                        [Black Friday](https://datahack.analyticsvidhya.com/contest/black-friday/)                       |   Regression   |   Tabular   | NA          |        |      |
-| [Urban Sound Classification](https://datahack.analyticsvidhya.com/contest/practice-problem-urban-sound-classification/) | Classification |    Sound    | NA          |        |      |
-| [Twitter Sentiment Analysis](https://datahack.analyticsvidhya.com/contest/practice-problem-twitter-sentiment-analysis/) | Classification |     Text    | NA          |        |      |
-|               [Joke Recommendation](https://datahack.analyticsvidhya.com/contest/jester-practice-problem/)              |     Ranking    |     Text    | NA          |        |      |
+|           [Time Series Analysis](https://datahack.analyticsvidhya.com/contest/practice-problem-time-series-2/)          |   Forecasting  | Time Series |             |        |      |
+|                        [Black Friday](https://datahack.analyticsvidhya.com/contest/black-friday/)                       |   Regression   |   Tabular   |             |        |      |
+| [Urban Sound Classification](https://datahack.analyticsvidhya.com/contest/practice-problem-urban-sound-classification/) | Classification |    Sound    |             |        |      |
+| [Twitter Sentiment Analysis](https://datahack.analyticsvidhya.com/contest/practice-problem-twitter-sentiment-analysis/) | Classification |     Text    |             |        |      |
+|               [Joke Recommendation](https://datahack.analyticsvidhya.com/contest/jester-practice-problem/)              |     Ranking    |     Text    |             |        |      |
 |      [Identify the Apparels](https://datahack.analyticsvidhya.com/contest/practice-problem-identify-the-apparels/)      | Classification |    Images   | 0.9006      | 0.8978 | 148  |
 |        [Identify the Digits](https://datahack.analyticsvidhya.com/contest/practice-problem-identify-the-digits/)        | Classification |    Images   | 0.9814      | 0.9848 | 132  |
 
